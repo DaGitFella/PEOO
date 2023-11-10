@@ -1,0 +1,5 @@
+Clara 9 9 10
+Felipe 8 8 8
+Larissa 7 6 6
+Lucas 9 9 9
+Isabela 6 7 7
